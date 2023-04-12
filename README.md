@@ -5,4 +5,4 @@ Bluetooth controlled RC car with video based on the ESP32-Cam. The video isn't t
 There is an [App](https://github.com/bradylangdale/BluetoothCarApp) that goes along with this Arduino code. It'll display the video and send button presses.
 
 # GUI
-There is also a [GUI](https://github.com/bradylangdale/BluetoothCarGUI/) that goes along with this Arduino code. It'll display the video and take inputs.
+There is also a [GUI](https://github.com/bradylangdale/BluetoothCarGUI/) that goes along with this Arduino code. It'll display the video and send keyboard inputs.
